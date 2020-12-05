@@ -1,0 +1,46 @@
+body{
+	background-color:#FFE4B5;
+	font-family: 'Poppins', sans-serif;
+}
+h1{
+	color:#00008b;
+}
+h2{
+	color:#00008b;
+}
+li{
+	color:#B22222;
+}
+.header_dog{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.photo_1{
+	text-align:center;
+}
+.photo_2{
+	text-align:center;
+}
+.photo_3{
+	text-align:center;
+}
+.size{
+	font-size:40px;
+	color:#00008b;
+}
+.color_footer{
+	color:#00008b;
+}
+.footer_position{
+	text-align:center;
+}
+.color_h2{
+	color:#FF8C00;
+	border:solid #FF6347;
+	width:40%;
+	margin:0 0 0 400px;
+}
+a:hover{
+	color:#A52A2A;
+}

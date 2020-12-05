@@ -1,0 +1,60 @@
+body{
+	background-color:#FFE4B5;
+	font-family: 'Poppins', sans-serif;
+}
+ul{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.position1{
+	display:flex;
+	align-items:center;
+}
+.position2{
+	display:flex;
+	align-items:center;
+}
+.position3{
+	display:flex;
+	align-items:center;
+}
+.price1{
+	font-size:40px;
+}
+.price2{
+	font-size:40px;
+}
+.price3{
+	font-size:40px;
+}
+.size_buy1{
+	font-size:40px;
+	border:solid #FF6347;
+	margin:0 0 0 74px;
+	color:#FF6347;
+}
+.size_buy2{
+	font-size:40px;
+	border:solid #FF6347;
+	color:#FF6347;
+}
+.size_buy3{
+	font-size:40px;
+	border:solid #FF6347;
+	color:#FF6347;
+}
+.color_h1{
+	color:#8B4513;
+	font-size:40px;
+}
+a:hover{
+	color:#A52A2A;
+}
+.footer_position{
+	text-align:center;
+}
+.color_footer{
+	color:#00008b;
+}
